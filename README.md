@@ -18,6 +18,12 @@ For the initial conception and the refactoring that led to the final code you ca
 
 [A Stat System for Unity part 2](https://giannisakritidis.com/blog/Stat-System-Part2/)
 
+## Installation
+1. Open the Package Manager from Window > Package Manager
+2. "+" button > Add package from git URL
+3. Enter the following to install
+- https://github.com/khanhdrag9/Stat-System.git?path=/Assets/StatSystem
+
 ## Simple Usage
 
 Create a Stat with:
