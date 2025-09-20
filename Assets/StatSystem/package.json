@@ -1,0 +1,18 @@
+{
+    "name": "com.khite.meredoth_stat_system",
+    "version": "1.0.0",
+    "displayName": "Stat System",
+    "description": "Simple Stat System",
+    "unity": "2021.3",
+    "documentationUrl": "https://github.com/khanhdrag9/Stat-System",
+    "licensesUrl": "https://github.com/khanhdrag9/Stat-System/blob/master/LICENSE.md",
+    "keywords": [
+        "Unity",
+        "Stat"
+    ],
+    "author": {
+        "name": "meredoth, khite",
+        "email": "tkhanh783@gmail.com",
+        "url": "https://github.com/khanhdrag9"
+    }
+}
